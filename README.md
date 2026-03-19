@@ -1,7 +1,7 @@
 # 📊 Telecom Customer Churn Analysis Dashboard
 
 🔗 **Live Dashboard:**  
-[View on Tableau](https://public.tableau.com/views/TelecomCustomerChurnAnalysisDashboard_17739415636730/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
+[View on Tableau](https://public.tableau.com/views/TelecomCustomerChurnAnalysisDashboard_17739415636730/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -41,27 +41,34 @@ The telecom company is experiencing a **high churn rate (~26.54%)**, leading to 
 ---
 
 ## 📊 Dashboard Features
-- Interactive filters (Contract, Services, Segments)
-- KPI metrics for quick overview
-- Churn analysis by:
-  - Contract Type
-  - Payment Method
-  - Customer Tenure
-  - Service Usage
-- Customer segmentation using clustering
+- Interactive filters (Contract, Services, Segments)  
+- KPI metrics for quick overview  
+
+**Churn analysis by:**
+- Contract Type  
+- Payment Method  
+- Customer Tenure  
+- Service Usage  
+
+- Customer segmentation using clustering  
 - Customer journey visualization (Sankey-style flow)
 
 ---
 
 ## 🧠 Analysis Performed
 - Created calculated fields:
-  - `Churn Rate = AVG(Churn_Flag)`
-  - Tenure bins for cohort analysis
-- Performed segmentation using clustering:
-  - High-risk customers
-  - Low engagement customers
-  - Loyal customers
-- Compared churn behavior across services and payment methods
+  - **Churn Rate** = AVG(Churn_Flag)  
+  - Tenure bins for cohort analysis  
+
+- Performed customer segmentation using clustering (K-Means):
+  - High-risk customers  
+  - Low engagement customers  
+  - Loyal customers  
+
+- Analyzed churn behavior across:
+  - Service usage  
+  - Payment methods  
+  - Contract types 
 
 ---
 
@@ -117,7 +124,7 @@ Telecom-Churn-Analysis/
 ![Dashboard Overview](images/dashboard_overview.png)
 
 ### 📈 KPI Metrics
-![KPI Metrics](images/KPI_Metrics.png)
+![KPI Metrics](images/kpi_metrics.png)
 
 ### 📉 Churn by Contract
 ![Churn by Contract](images/churn_by_contract.png)
