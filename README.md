@@ -1,7 +1,7 @@
 # 📊 Telecom Customer Churn Analysis Dashboard
 
 🔗 **Live Dashboard:**  
-(https://public.tableau.com/views/TelecomCustomerChurnAnalysisDashboard_17739415636730/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View on Tableau](https://public.tableau.com/views/TelecomCustomerChurnAnalysisDashboard_17739415636730/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -113,7 +113,20 @@ Telecom-Churn-Analysis/
 
 ## 🖼️ Dashboard Preview
 
+### 📊 Overall Dashboard
 ![Dashboard Overview](images/dashboard_overview.png)
+
+### 📈 KPI Metrics
+![KPI Metrics](images/KPI_Metrics.png)
+
+### 📉 Churn by Contract
+![Churn by Contract](images/churn_by_contract.png)
+
+### ⏳ Churn by Tenure
+![Churn by Tenure](images/churn_by_tenure.png)
+
+### 🔄 Customer Journey
+![Customer Journey](images/customer_journey_analysis.png)
 
 ---
 
@@ -126,7 +139,7 @@ Telecom-Churn-Analysis/
 ---
 
 ## 🙋‍♀️ About Me
-Data Analyst skilled in SQL, Python, Tableau, and Machine Learning, passionate about solving real-world business problems using data.
+Data Analyst with expertise in SQL, Python, and Tableau, focused on solving real-world business problems through data-driven insights.
 
 ---
 
