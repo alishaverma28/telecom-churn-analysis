@@ -132,6 +132,9 @@ Telecom-Churn-Analysis/
 ### ⏳ Churn by Tenure
 ![Churn by Tenure](images/churn_by_tenure.png)
 
+### 🧩 Customer Segmentation (Clustering)
+![Customer Segmentation](images/customer_segmentation_clustering.png)
+
 ### 🔄 Customer Journey
 ![Customer Journey](images/customer_journey_analysis.png)
 
