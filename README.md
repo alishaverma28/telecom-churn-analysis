@@ -25,8 +25,8 @@ The telecom company is experiencing a **high churn rate (~26.54%)**, leading to 
 ## 📌 Key Metrics
 - **Total Customers:** 7,043  
 - **Churn Rate:** 26.54%  
-- **Average Monthly Charges:** $64.76  
-- **Average Tenure:** 32 months  
+- **Average Monthly Charges:** 64.76
+- **Average Tenure:** 32 months (~2.7 years)  
 
 ---
 
