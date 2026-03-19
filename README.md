@@ -126,7 +126,7 @@ Telecom-Churn-Analysis/
 ---
 
 ## 🙋‍♀️ About Me
-Aspiring Data Analyst skilled in SQL, Python, Tableau, and Machine Learning, passionate about solving real-world business problems using data.
+Data Analyst skilled in SQL, Python, Tableau, and Machine Learning, passionate about solving real-world business problems using data.
 
 ---
 
